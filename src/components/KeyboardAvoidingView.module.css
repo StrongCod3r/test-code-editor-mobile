@@ -1,0 +1,13 @@
+/* Estilos opcionales para KeyboardAvoidingView */
+.keyboardAvoidingView {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.contentContainer {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}

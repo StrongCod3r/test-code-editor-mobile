@@ -1,0 +1,22 @@
+body, #root {
+  overflow: hidden !important;
+  overscroll-behavior: contain !important;
+  touch-action: pan-x pan-y !important;
+  /* position: fixed !important; */
+  width: 100vw !important;
+  height: 100vh !important;
+  /* top: 0 !important;
+  left: 0 !important; */
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.cm-content {
+  text-align: left !important;
+  justify-content: flex-start !important;
+  align-items: flex-start !important;
+}
