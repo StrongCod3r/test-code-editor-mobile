@@ -1,5 +1,10 @@
 # Test Code Editor Mobile
 
+
+## Libraries
+- React
+- CodeMirror
+
 ## Compile and Run
 ```
 pnpm i
