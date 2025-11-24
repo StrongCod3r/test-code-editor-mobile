@@ -1,12 +1,13 @@
 # Test Code Editor Mobile
 
-
 ## Libraries
 - React
 - CodeMirror
 
-## Compile and Run
+## Clone and Run
 ```
+git clone https://github.com/StrongCod3r/test-code-editor-mobile.git
+cd test-code-editor-mobile
 pnpm i
 pnpm run dev
 ```
