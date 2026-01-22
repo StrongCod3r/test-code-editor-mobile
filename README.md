@@ -1,4 +1,4 @@
-# Test Code Editor Mobile
+# Code Editor Mobile
 
 ## Libraries
 - React
